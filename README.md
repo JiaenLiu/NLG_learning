@@ -10,8 +10,7 @@ Does Order Matter? An Empirical Study on Generating Multiple Keyphrases as a Seq
 One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases (https://arxiv.org/abs/1810.05241)    
 An Empirical Study on Neural Keyphrase Generation (https://arxiv.org/abs/2009.10229)  
 PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents (https://www.aclweb.org/anthology/P17-1102.pdf)  
-Keyphrase Generation (built on OpenNMT-py)  
-(https://github.com/memray/OpenNMT-kpg-release)  
+Keyphrase Generation (built on OpenNMT-py) (https://github.com/memray/OpenNMT-kpg-release)  
 PositionRank (https://github.com/ymym3412/position-rank)  
 
 ## Introduction
